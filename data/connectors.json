@@ -53253,6 +53253,15 @@
       "description": "Computes Social Security claiming estimates, returning full retirement age, benefits by claiming age from 62 to 70 and breakeven age, and lets licensed advisors list clients, pull stored claiming analyses and re-run them on records on file.",
       "use_case": "Estimating benefits at 62, 67 and 70 for a client born in 1962, pulling a married client's survivor analysis, refreshing an analysis before a review meeting.",
       "subcategory": "Accounting Payroll and Financial Planning"
+    },
+    {
+      "name": "TraderWAI Charts",
+      "url": "https://traderwai.com",
+      "marker": "C",
+      "category": "Finance and Trading",
+      "description": "Read-only market charts for forex, gold, indices, oil, futures and crypto: candlestick chart images from 1 minute to monthly, exact OHLC candles and quotes, charts marked with Claude's analysis, and backtests of rule-based strategies on 1-minute history.",
+      "use_case": "Marking support and resistance on the gold H1 chart, backtesting an Asian-session breakout on GBP/USD over the last week, checking the latest Nasdaq price before planning a trade.",
+      "subcategory": "Market Data and Investment Research"
     }
   ],
   "held": [
